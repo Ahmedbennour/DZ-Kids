@@ -1,7 +1,8 @@
+
 {
   "expo": {
-    "name": "moody-green-chips",
-    "slug": "snack-4d0b72d9-8581-48f6-8d5c-5743a5e03fbb",
+    "name": "DZ-Kids",
+    "slug": "dz-kids",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,10 +17,6 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
       "edgeToEdgeEnabled": true
     },
     "web": {
